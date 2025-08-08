@@ -3,7 +3,7 @@
 ![Web Developer Banner](https://github.com/mdsabir07/mdsabir07/blob/main/assets/github-banner.png?raw=true)
 
 **📍 Dhaka, Bangladesh**  
-📧 [sabirdev07@gmail.com]  
+📧 [sabiruli@gmail.com]  
 🔗 [Portfolio Website](https://sabir.coderdevsbd.com/portfolio/)
 
 ## 💻 **Full Stack Web Developer | eCommerce Specialist | Problem Solver**
