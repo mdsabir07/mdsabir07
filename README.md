@@ -1,6 +1,6 @@
 # Hello World! 👋 I'm Sabirul Islam
 
-![Web Developer Banner](https://github.com/mdsabir07/mdsabir07/blob/main/assets/github-banner.png?raw=true)
+![Web Developer Banner](https://github.com/mdsabir07/mdsabir07/raw/main/assets/github-banner.png)
 
 **📍 Dhaka, Bangladesh**  
 📧 [sabiruli@gmail.com]  
