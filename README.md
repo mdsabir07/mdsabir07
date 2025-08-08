@@ -47,7 +47,7 @@ I build blazing-fast web applications with **React, Node.js, and MongoDB**, and 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsabir07&show_icons=true&theme=radical&hide_title=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsabir07&layout=compact&theme=radical&hide=html,css) |
 |-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdsabir07&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mdsabir07&theme=radical)
 
 ---
 
