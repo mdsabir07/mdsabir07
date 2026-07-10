@@ -3,12 +3,13 @@
 ![Web Developer Banner](https://github.com/mdsabir07/mdsabir07/raw/main/assets/mdsabir07_banner.png)
 
 **📍 Dhaka, Bangladesh**  
-📧 [sabiruli@gmail.com]  
-🔗 [Portfolio Website](https://sabir-portfolio-2a4b1.web.app/)
+📧 [Email](sabiruli@gmail.com)  
+🔗 [Portfolio Website 1](https://sabir-portfolio-2a4b1.web.app/)
+🔗 [Portfolio Website 2](https://sabir.coderdevsbd.com/portfolios/)
 
 ## 💻 **Full Stack Web Developer | eCommerce Specialist | Problem Solver**
 
-I build blazing-fast web applications with **React, Node.js, and MongoDB**, and craft conversion-focused **Shopify/WordPress** solutions. With 7+ years of experience, I specialize in:
+I build blazing-fast web applications with **React, Next.js, Node.js, and MongoDB**, and craft conversion-focused **Shopify/WordPress** solutions. With 7+ years of experience, I specialize in:
 - **Debugging** complex technical challenges
 - **SEO-optimized** web architectures
 - **Headless CMS** implementations
